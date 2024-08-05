@@ -23,6 +23,9 @@
       "react-app/jest"
     ]
   },
+  "devDependencies": {
+  "@babel/plugin-proposal-private-property-in-object": "^4.0.6"
+},
   "browserslist": {
     "production": [
       ">0.2%",
